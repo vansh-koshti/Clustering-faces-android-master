@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">556024595322-nu6qt5bc253740bmgj1fu483hmfs89tt.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://clusterface-75742.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">556024595322</string>
+    <string name="google_api_key" translatable="false">AIzaSyC-JwGBmQVwBQxr0gmIRHZWoTXO5yqlvvE</string>
+    <string name="google_app_id" translatable="false">1:556024595322:android:967097f4e65d1c44</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyC-JwGBmQVwBQxr0gmIRHZWoTXO5yqlvvE</string>
+    <string name="google_storage_bucket" translatable="false">clusterface-75742.appspot.com</string>
+    <string name="project_id" translatable="false">clusterface-75742</string>
+</resources>
